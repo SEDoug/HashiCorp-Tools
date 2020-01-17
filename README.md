@@ -11,10 +11,12 @@ Infrastructure Automation with HashiCorp
 https://computingforgeeks.com/install-latest-vagrant-on-ubuntu-18-04-debian-9-kali-linux/
 --->
 
-## Install Vagrant Azure Plugin & Upgrade Vagrant to 2.0.3 so you can install the plugin: run the following
+## Commands: Upgrade Vagrant to 2.0.3 so you can install the plugin: run the following
 <li><a>wget -c https://releases.hashicorp.com/vagrant/2.0.3/vagrant_2.0.3_x86_64.deb</a></li>
 <li>sudo dpkg -i vagrant_2.0.3_x86_64.deb</li>
 <li>vagrant plugin install vagrant-azure</li>
+
+<!---Install Vagrant Azure Plugin & --->
 
 ## Links for Git, Vagrant, Python and Visual Studio Code
 <li><a href="https://git-scm.com/download/linux"</a>Download GIT for Linux and Unix</li>
