@@ -1,6 +1,6 @@
 # HashiCorp-Tools
 Infrastructure Automation with HashiCorp
-<li>Vagrant: Vagrant is a tool for building and managing virtual machine environments in a single workflow.</li>
+<li><ul>Vagrant</ul> is a tool for building and managing virtual machine environments in a single workflow.</li>
 <li>TerraForm: Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently.</li>
 <li>Vault: Secures, stores & tightly controls access to tokens, passwords, certificates, API keys & other secrets.</li>
 <li>Packer: HashiCorp Packer is easy to use and automates the creation of any type of machine image.</li>
