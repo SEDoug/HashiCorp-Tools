@@ -7,15 +7,15 @@ Infrastructure Automation with HashiCorp
 
 ## Install Latest Vagrant on Ubuntu 18.04 Desktop | CentOS | Debian 10 | Kali Linux
 <li><a href="http://doug-macgregor.webflow.io/"</a>Installing HashiCorp-Vagrant-on-Ubuntu-18-04-Desktop</li>
-Some interesting finds trying to get vagrant up on this box.
- - If you happened to create a Vagrant project with just vagrant init (which I did).. this will create the Vagrantfile, but it won't have a box defined.
-- Instead, try this:
-$ vagrant init hashicorp/precise32
-$ vagrant up
+#Some interesting finds trying to get vagrant up on this box.
+# - If you happened to create a Vagrant project with just vagrant init (which I did).. this will create the Vagrantfile, but it won't have a box defined.
+#- Instead, try this:
+#$ vagrant init hashicorp/precise32
+#$ vagrant up
 
-The Vagrant website has a Getting Started which gives some good examples.
+#The Vagrant website has a Getting Started which gives some good examples.
 
-IMAGES coming
+#IMAGES coming
 
 <li><a href="http://doug-macgregor.webflow.io/"</a>Installing HashiCorp-Vagrant-on-CentOS</li>
 <li><a href="http://doug-macgregor.webflow.io/"</a>Installing HashiCorp-Vagrant-on-Debian-10</li>
