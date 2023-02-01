@@ -6,7 +6,7 @@ Infrastructure Automation with HashiCorp  ( ͡° ͜ʖ ͡°)
 <li><b>Packer</b> is easy to use and automates the creation of any type of machine image.</li>
 
 ## Install Latest Vagrant on Ubuntu 18.04 Desktop | CentOS | Debian 10 | Kali Linux
-<li><a href="http://doug-macgregor.webflow.io/"</a>Installing HashiCorp-Vagrant-on-Ubuntu-18-04-Desktop</li>
+
 #Some interesting finds trying to get vagrant up on this box.
 # - If you happened to create a Vagrant project with just vagrant init (which I did).. this will create the Vagrantfile, but it won't have a box defined.
 #- Instead, try this:
@@ -15,11 +15,7 @@ Infrastructure Automation with HashiCorp  ( ͡° ͜ʖ ͡°)
 
 #The Vagrant website has a Getting Started which gives some good examples.
 
-#IMAGES coming
-
-<li><a href="http://doug-macgregor.webflow.io/"</a>Installing HashiCorp-Vagrant-on-CentOS</li>
-<li><a href="http://doug-macgregor.webflow.io/"</a>Installing HashiCorp-Vagrant-on-Debian-10</li>
-<li><a href="http://doug-macgregor.webflow.io/"</a>Installing HashiCorp-Vagrant-on-Kali-Linux</li>
+#IMAGES
 
 <!---
 https://computingforgeeks.com/install-latest-vagrant-on-ubuntu-18-04-debian-9-kali-linux/
